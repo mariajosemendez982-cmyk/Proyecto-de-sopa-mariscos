@@ -2,4 +2,4 @@
 Este proyecto esta desarrollado completamente con la IA, usando unicamente HTML
 
 ## AUTOR
-Maria Jose Mendez 
+Maria Jose Mendez Estu CUR Chontales - 2025
